@@ -1,0 +1,15 @@
+"/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTaskSnapshot.swift":
+  object: "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.o"
+  diagnostics: "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.dia"
+  swift-dependencies: "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.swiftdeps"
+  dependencies: "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.d"
+"/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTask.swift":
+  swift-dependencies: "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTask.swiftdeps"
+  diagnostics: "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTask.dia"
+  object: "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTask.o"
+  dependencies: "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTask.d"
+"/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageReference.swift":
+  object: "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageReference.o"
+  diagnostics: "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageReference.dia"
+  dependencies: "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageReference.d"
+  swift-dependencies: "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageReference.swiftdeps"

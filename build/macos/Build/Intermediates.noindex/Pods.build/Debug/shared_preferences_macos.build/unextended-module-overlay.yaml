@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Products/Debug/shared_preferences_macos/shared_preferences_macos.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Intermediates.noindex/Pods.build/Debug/shared_preferences_macos.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Products/Debug/shared_preferences_macos/shared_preferences_macos.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "shared_preferences_macos-Swift.h",
+      'external-contents': "/Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Intermediates.noindex/Pods.build/Debug/shared_preferences_macos.build/unextended-interface-header.h",
+    }]
+    }]
+}

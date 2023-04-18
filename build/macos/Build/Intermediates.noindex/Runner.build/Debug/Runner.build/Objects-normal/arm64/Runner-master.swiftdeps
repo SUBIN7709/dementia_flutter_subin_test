@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "d4d1a303277feca94d0df77f1b4fcd63758e14f9dbe80048bb155375a48219f9"
+build_start_time: [1681717262, 277053000]
+build_end_time: [1681717270, 335870000]
+inputs:
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Flutter/GeneratedPluginRegistrant.swift": [1681717051, 567693776]
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Runner/AppDelegate.swift": [1673243561, 371945731]
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Runner/MainFlutterWindow.swift": [1673243561, 375383237]

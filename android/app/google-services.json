@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1007577839454",
+    "project_id": "students-165d7",
+    "storage_bucket": "students-165d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007577839454:android:f5b187f23e12d5e1a801cf",
+        "android_client_info": {
+          "package_name": "com.example.dmentia_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007577839454-d7qquf436av5r9vajmo3ahcv79pajrp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2xX7RGGCA8Ubn51v697ccd3IAwlIDnzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007577839454-d7qquf436av5r9vajmo3ahcv79pajrp1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1007577839454-3gpu0afigeeamq9f56dhhnn9plfgbkhu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swiftlec.FirebaseList"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

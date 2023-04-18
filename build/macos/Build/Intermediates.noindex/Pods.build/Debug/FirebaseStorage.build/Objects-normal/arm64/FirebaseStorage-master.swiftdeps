@@ -1,0 +1,38 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "6278e1f148cd6c995f9400d788acf25b0883c0d56db761135573c7da7f57b181"
+build_start_time: [1681717152, 262433000]
+build_end_time: [1681717203, 943387000]
+inputs:
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift": [1681717081, 492020889]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageDeleteTask.swift"
+  : [1681717081, 489697049]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetDownloadURLTask.swift"
+  : [1681717081, 490139584]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetMetadataTask.swift"
+  : [1681717081, 491473272]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageListTask.swift"
+  : [1681717081, 491679561]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StoragePath.swift"
+  : [1681717081, 489861421]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTaskState.swift"
+  : [1681717081, 490963072]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTokenAuthorizer.swift"
+  : [1681717081, 491251484]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUpdateMetadataTask.swift"
+  : [1681717081, 490751242]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUtils.swift"
+  : [1681717081, 490444454]
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift": [1681717081, 489396804]
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift": [1681717081, 487490165]
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageComponent.swift": [1681717081, 488917227]
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageConstants.swift": [1681717081, 492664838]
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageDownloadTask.swift": [1681717081, 488287820]
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageError.swift": [1681717081, 493029374]
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageListResult.swift": [1681717081, 488462067]
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageMetadata.swift": [1681717081, 492494257]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageObservableTask.swift"
+  : [1681717081, 487911951]
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageReference.swift": [1681717081, 492868585]
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTask.swift": [1681717081, 489222806]
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTaskSnapshot.swift": [1681717081, 487685621]
+  "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageUploadTask.swift": [1681717081, 492323926]

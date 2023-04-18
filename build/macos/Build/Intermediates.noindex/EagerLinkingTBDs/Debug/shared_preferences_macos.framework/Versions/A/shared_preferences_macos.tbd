@@ -1,0 +1,42 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-macos ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/shared_preferences_macos.framework/Versions/A/shared_preferences_macos'
+swift-abi-version: 7
+exports:
+  - targets:         [ arm64-macos ]
+    symbols:         [ '_$s24shared_preferences_macos15UserDefaultsApiMp', '_$s24shared_preferences_macos15UserDefaultsApiTL', 
+                       '_$s24shared_preferences_macos20UserDefaultsApiSetupC5setUp15binaryMessenger3apiySo013FlutterBinaryK0_p_AA0deF0_pSgtFZ', 
+                       '_$s24shared_preferences_macos20UserDefaultsApiSetupCACycfC', 
+                       '_$s24shared_preferences_macos20UserDefaultsApiSetupCACycfCTq', 
+                       '_$s24shared_preferences_macos20UserDefaultsApiSetupCACycfc', 
+                       '_$s24shared_preferences_macos20UserDefaultsApiSetupCMa', 
+                       '_$s24shared_preferences_macos20UserDefaultsApiSetupCMm', 
+                       '_$s24shared_preferences_macos20UserDefaultsApiSetupCMn', 
+                       '_$s24shared_preferences_macos20UserDefaultsApiSetupCN', '_$s24shared_preferences_macos20UserDefaultsApiSetupCfD', 
+                       '_$s24shared_preferences_macos20UserDefaultsApiSetupCfd', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginC5clearyyF', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginC5clearyyFTq', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginC6getAllSDySSSgypSgGyF', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginC6getAllSDySSSgypSgGyFTq', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginC6remove3keyySS_tF', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginC6remove3keyySS_tFTq', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginC7setBool3key5valueySS_SbtF', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginC7setBool3key5valueySS_SbtFTq', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginC8register4withySo07FlutterF9Registrar_p_tFZ', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginC8setValue3key5valueySS_yptF', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginC8setValue3key5valueySS_yptFTq', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginC9setDouble3key5valueySS_SdtF', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginC9setDouble3key5valueySS_SdtFTq', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginCAA15UserDefaultsApiAAMc', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginCAA15UserDefaultsApiAAWP', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginCACycfC', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginCACycfc', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginCMa', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginCMn', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginCN', 
+                       '_$s24shared_preferences_macos23SharedPreferencesPluginCfD', 
+                       _shared_preferences_macosVersionNumber, _shared_preferences_macosVersionString ]
+    objc-classes:    [ PodsDummy_shared_preferences_macos, _TtC24shared_preferences_macos23SharedPreferencesPlugin ]
+...

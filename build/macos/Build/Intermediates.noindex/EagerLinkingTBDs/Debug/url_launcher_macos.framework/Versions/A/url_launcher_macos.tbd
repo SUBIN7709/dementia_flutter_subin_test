@@ -1,0 +1,26 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-macos ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/url_launcher_macos.framework/Versions/A/url_launcher_macos'
+swift-abi-version: 7
+exports:
+  - targets:         [ arm64-macos ]
+    symbols:         [ '_$s18url_launcher_macos16SystemURLHandlerMp', '_$s18url_launcher_macos16SystemURLHandlerTL', 
+                       '_$s18url_launcher_macos17UrlLauncherPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF', 
+                       '_$s18url_launcher_macos17UrlLauncherPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq', 
+                       '_$s18url_launcher_macos17UrlLauncherPluginC8register4withySo07FlutterF9Registrar_p_tFZ', 
+                       '_$s18url_launcher_macos17UrlLauncherPluginC9workspace33_E116BFEAF60020D55128F0847753BE7ELLAA16SystemURLHandler_pvM', 
+                       '_$s18url_launcher_macos17UrlLauncherPluginC9workspace33_E116BFEAF60020D55128F0847753BE7ELLAA16SystemURLHandler_pvg', 
+                       '_$s18url_launcher_macos17UrlLauncherPluginC9workspace33_E116BFEAF60020D55128F0847753BE7ELLAA16SystemURLHandler_pvs', 
+                       '_$s18url_launcher_macos17UrlLauncherPluginCACycfC', '_$s18url_launcher_macos17UrlLauncherPluginCACycfc', 
+                       '_$s18url_launcher_macos17UrlLauncherPluginCMa', '_$s18url_launcher_macos17UrlLauncherPluginCMn', 
+                       '_$s18url_launcher_macos17UrlLauncherPluginCN', '_$s18url_launcher_macos17UrlLauncherPluginCfD', 
+                       '_$s18url_launcher_macos17UrlLauncherPluginCyAcA16SystemURLHandler_pcfC', 
+                       '_$s18url_launcher_macos17UrlLauncherPluginCyAcA16SystemURLHandler_pcfCTq', 
+                       '_$s18url_launcher_macos17UrlLauncherPluginCyAcA16SystemURLHandler_pcfc', 
+                       '_$sSo11NSWorkspaceC18url_launcher_macos16SystemURLHandlerACMc', 
+                       '_$sSo11NSWorkspaceC18url_launcher_macos16SystemURLHandlerACWP', 
+                       _url_launcher_macosVersionNumber, _url_launcher_macosVersionString ]
+    objc-classes:    [ PodsDummy_url_launcher_macos, _TtC18url_launcher_macos17UrlLauncherPlugin ]
+...

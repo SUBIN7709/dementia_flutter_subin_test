@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/src/core/ext/filters/client_channel/retry_throttle.cc \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/Target\ Support\ Files/gRPC-Core/gRPC-Core-prefix.pch \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/include/grpc/support/port_platform.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/include/grpc/impl/codegen/port_platform.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/src/core/ext/filters/client_channel/retry_throttle.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/src/core/lib/gprpp/memory.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/memory/memory.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/include/grpc/support/alloc.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/include/grpc/support/log.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/include/grpc/impl/codegen/log.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/src/core/lib/gprpp/ref_counted.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/include/grpc/support/atm.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/include/grpc/impl/codegen/atm.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/include/grpc/impl/codegen/atm_gcc_atomic.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/include/grpc/support/sync.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/include/grpc/impl/codegen/gpr_types.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/include/grpc/impl/codegen/sync.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/include/grpc/impl/codegen/sync_generic.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/include/grpc/impl/codegen/sync_posix.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/src/core/lib/gprpp/atomic_utils.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/src/core/lib/gprpp/debug_location.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/src/core/lib/gprpp/ref_counted_ptr.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/include/grpc/support/string_util.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/src/core/lib/gprpp/manual_constructor.h \
+  /Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/gRPC-Core/src/core/lib/gprpp/construct_destruct.h

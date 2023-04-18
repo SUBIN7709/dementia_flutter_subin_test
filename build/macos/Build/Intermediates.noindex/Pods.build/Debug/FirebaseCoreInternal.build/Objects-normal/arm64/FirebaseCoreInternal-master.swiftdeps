@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "b04e77b175a7b12310661d6aeb1006377dcce8772cf4fd0c38699def1ee83f25"
+build_start_time: [1681717110, 582698000]
+build_end_time: [1681717154, 254260000]
+inputs:
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1681717071, 216533415]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1681717071, 221455093]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1681717071, 224114762]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1681717071, 225012290]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1681717071, 226871013]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1681717071, 218643759]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : [1681717071, 213785914]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1681717071, 227054843]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1681717071, 226166023]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1681717071, 219522580]
+  ? "/Users/ansubin/Documents/Github/dementia_flutter_hi/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1681717071, 223336148]

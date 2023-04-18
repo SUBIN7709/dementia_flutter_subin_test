@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "f88c1656df3baf417302ebc9635a16ddbe9f069fc609a2e7929b924e637fa2e1"
+build_start_time: [1681717110, 439063000]
+build_end_time: [1681717110, 525056000]
+inputs:
+  "/Users/ansubin/.pub-cache/hosted/pub.dev/url_launcher_macos-3.0.1/macos/Classes/UrlLauncherPlugin.swift": !private [1678153034, 634283514]
